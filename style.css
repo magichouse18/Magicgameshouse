@@ -1,0 +1,10 @@
+/* Sfondo nero per far risaltare i neon */
+body, html {
+  margin: 0;
+  background: #000;
+  overflow: hidden;
+}
+#game-container {
+  width: 100vw;
+  height: 100vh;
+}
